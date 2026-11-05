@@ -1,0 +1,8 @@
+{
+  "note": "npm run generate-brand 이 갱신한다. 직접 수정하지 말 것.",
+  "sources": {
+    "app/icon.svg": "32b3731391a7255bfb3b1abf460bba5f0d762a8054e130b068cf7b7ae68ffb02",
+    "public/brand/doyak-wordmark.svg": "03b95e9081afc956d0171823af5cd7576e463929bc3c69ecf427d293dd5b317e",
+    "scripts/generate-brand-assets.mjs": "10b2a3e2305fbac6bf54c76feaa88c31571276b1ede32fa0fe92fb92a68cea5f"
+  }
+}

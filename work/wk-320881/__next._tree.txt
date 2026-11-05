@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/2hde6xcb2nwr5.css","style"]
+:HC["/",""]
+:HL["https://demo.doyak.dev/p/assets/auto/wk-320881/9f94d50c8c7c.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"wk-320881","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"_lXiv8uPsmcgeBmdSEJXJ"}
